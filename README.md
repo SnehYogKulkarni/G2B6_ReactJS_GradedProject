@@ -17,4 +17,4 @@ Movies on the Tip is an online movie manager whose responsibility is to take car
 6. As a user I should be able to remove a movie from the favorite list.
 
 **Screen Recording**
-G2B6_ReactJS_GradedPeoject.mp4
+G2B6_ReactJS_gradedProject4.mp4
