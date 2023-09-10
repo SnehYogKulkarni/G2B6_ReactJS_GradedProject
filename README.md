@@ -17,4 +17,4 @@
 **Screen Recording**
 G2B6_ReactJS_gradedProject4.mp4
 
-#**Imporatant Notes**
+# **Imporatant Notes**
