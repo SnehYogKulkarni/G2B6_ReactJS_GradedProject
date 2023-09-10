@@ -20,7 +20,7 @@ Movies on the Tip is an online movie manager whose responsibility is to take car
 
 1. **node_modules** files are **not uploaded**
 2. Only required **compopnents from src/ and public/ , along with package.json, package-lock.json and tsconfig.json** are uploaded
-3. **img/ is not uploaded.**
+3. **img/ is not uploaded.**  (while executing application paste img/ in public folder)
 
 <h3> **Steps to run the application** </h3>
 
