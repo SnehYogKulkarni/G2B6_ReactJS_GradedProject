@@ -40,7 +40,9 @@ Movies on the Tip is an online movie manager whose responsibility is to take car
 5. add json-server data.json --port 4000 in package.json as "start"
 
 On server terminal --> npm start
+
 then 
+
 On client terminal   --> npm start
 
 <h3> **Refer Screen Recording --> G2B6_ReactJS_gradedProject4.mp4** </h3>
