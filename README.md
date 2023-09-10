@@ -1,7 +1,9 @@
 # G2B6_ReactJS_GradedProject4
 
 **Problem_Statement**
+
 Movies on the Tip is an online movie manager whose responsibility is to take care of all the activities a user can do on this portal. 
+
 **User Stories**
 1. As a user I should be able to search the movies type:-
     - coming soon
@@ -14,11 +16,11 @@ Movies on the Tip is an online movie manager whose responsibility is to take car
 5. As a user I should get the option to view my favorite list.
 6. As a user I should be able to remove a movie from the favorite list.
 
-# **Imporatant Notes**
+# Imporatant Notes
 
-1. node_modules files are not included
-2. Only required compopnents from src/ and public/ are uploaded
-3. img/ is not included.
+1. **node_modules** files are **not uploaded**
+2. Only required **compopnents from src/ and public/ , along with package.json, package-lock.json and tsconfig.json** are uploaded
+3. **img/ is not uploaded.**
 
 <h3> **Steps to run the application** </h3>
 
@@ -39,10 +41,9 @@ Movies on the Tip is an online movie manager whose responsibility is to take car
 
 On server terminal --> npm start
 then 
-
 On client terminal   --> npm start
 
-# Refer Screen Recording --> G2B6_ReactJS_gradedProject4.mp4
+<h3> **Refer Screen Recording --> G2B6_ReactJS_gradedProject4.mp4** </h3>
 
 
 
